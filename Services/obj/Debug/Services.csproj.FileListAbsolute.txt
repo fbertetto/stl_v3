@@ -1,0 +1,5 @@
+C:\Users\Fabian\Desktop\stl\STL v3\STL v3\Services\bin\Debug\Services.dll
+C:\Users\Fabian\Desktop\stl\STL v3\STL v3\Services\bin\Debug\Services.pdb
+C:\Users\Fabian\Desktop\stl\STL v3\STL v3\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+C:\Users\Fabian\Desktop\stl\STL v3\STL v3\Services\obj\Debug\Services.dll
+C:\Users\Fabian\Desktop\stl\STL v3\STL v3\Services\obj\Debug\Services.pdb

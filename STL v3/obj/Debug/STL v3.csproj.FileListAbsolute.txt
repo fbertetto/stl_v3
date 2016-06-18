@@ -1,0 +1,9 @@
+C:\Users\Fabian\Desktop\stl\STL v3\STL v3\STL v3\bin\Debug\STL v3.exe.config
+C:\Users\Fabian\Desktop\stl\STL v3\STL v3\STL v3\obj\Debug\STL v3.csprojResolveAssemblyReference.cache
+C:\Users\Fabian\Desktop\stl\STL v3\STL v3\STL v3\obj\Debug\STL_v3.MainForm.resources
+C:\Users\Fabian\Desktop\stl\STL v3\STL v3\STL v3\obj\Debug\STL_v3.Properties.Resources.resources
+C:\Users\Fabian\Desktop\stl\STL v3\STL v3\STL v3\obj\Debug\STL v3.csproj.GenerateResource.Cache
+C:\Users\Fabian\Desktop\stl\STL v3\STL v3\STL v3\bin\Debug\STL v3.exe
+C:\Users\Fabian\Desktop\stl\STL v3\STL v3\STL v3\bin\Debug\STL v3.pdb
+C:\Users\Fabian\Desktop\stl\STL v3\STL v3\STL v3\obj\Debug\STL v3.exe
+C:\Users\Fabian\Desktop\stl\STL v3\STL v3\STL v3\obj\Debug\STL v3.pdb
